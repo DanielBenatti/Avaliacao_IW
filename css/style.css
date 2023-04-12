@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+}
+header{
+    background-color: white;
+    text-align: center;
+    
+}
+.banner{
+    width: 100%;
+}
+.container{
+    width: 80%;
+    background-color: white;
+    margin: auto;
+}
+footer{
+    background-color: white;
+}
